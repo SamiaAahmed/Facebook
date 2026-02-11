@@ -1,0 +1,63 @@
+.post1 {
+    width: 710px;
+    height: 128px;
+    border-radius: 7px;
+    background: #FFF;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 14px 24px;
+    margin-top: 18px;
+}
+
+.post1div1 {
+    gap: 8px;
+    flex-direction: row;
+    display: flex;
+}
+
+.p2 {
+    width: 40px;
+    height: 40px;
+}
+
+.post1div2 {
+    width: 617px;
+    height: 40px;
+    border-radius: 31px;
+    background: #F0F2F5;
+}
+
+.line {
+    width: 655px;
+    height: 2px;
+    stroke-width: 1px;
+    stroke: #E4E6EB;
+}
+
+.post1div3 {
+    display: inline-flex;
+    align-items: flex-end;
+    gap: 94px;
+}
+
+.posticons {
+    width: 29px;
+    height: 21.091px;
+}
+
+h4 {
+    color: #65676B;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.post1div4 {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}

@@ -1,0 +1,35 @@
+.storydiv {
+    width: 170px;
+    height: 215px;
+    border-radius: 7px;
+    background: #FFF;
+    box-shadow: 0 4px 10px 2px rgba(0, 0, 0, 0.18);
+    padding: 2px;
+}
+
+.storyimg {
+    width: 160px;
+    height: 172px;
+}
+
+.storydiv1 {
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    gap: 4px;
+    height: 30px;
+}
+
+.h6-3 {
+    color: #000;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+
+.storyp {
+    width: 30px;
+    height: 30px;
+}

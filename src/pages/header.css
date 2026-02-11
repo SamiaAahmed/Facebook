@@ -1,0 +1,31 @@
+header {
+    padding: 15px 40px;
+    flex-direction: row;
+    display: flex;
+    align-items: center;
+    background: #FFF;
+    width: 1440px;
+}
+
+.logo {
+    width: 40px;
+    height: 41.555px;
+    margin-right: 500px;
+}
+
+nav ul {
+    display: flex;
+    list-style-type: none;
+}
+
+nav img {
+    width: 40px;
+    height: 40px;
+    cursor: pointer;
+}
+
+nav {
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
